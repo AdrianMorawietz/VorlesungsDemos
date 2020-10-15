@@ -23,8 +23,7 @@ namespace FormDemo
             y = 0;
         }
 
-        public void setMittelpunkt(
-            double l_x, double l_y)
+        public void setMittelpunkt(double l_x, double l_y)
         {
             x = l_x;
             y = l_y;
